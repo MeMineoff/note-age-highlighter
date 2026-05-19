@@ -9,7 +9,6 @@
 		"dev": "node esbuild.config.mjs"
 	},
 	"devDependencies": {
-		"builtin-modules": "latest",
 		"esbuild": "latest",
 		"obsidian": "latest",
 		"typescript": "latest"
