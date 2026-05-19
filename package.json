@@ -1,0 +1,17 @@
+{
+	"name": "note-age-highlighter",
+	"version": "1.0.0",
+	"private": true,
+	"description": "Highlights stale notes in the file explorer.",
+	"main": "main.js",
+	"scripts": {
+		"build": "node esbuild.config.mjs production",
+		"dev": "node esbuild.config.mjs"
+	},
+	"devDependencies": {
+		"builtin-modules": "latest",
+		"esbuild": "latest",
+		"obsidian": "latest",
+		"typescript": "latest"
+	}
+}

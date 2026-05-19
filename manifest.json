@@ -1,0 +1,10 @@
+{
+	"id": "note-age-highlighter",
+	"name": "Note Age Highlighter",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.0",
+	"description": "Highlights notes in the file explorer when they have not been modified for a configurable number of days.",
+	"author": "ImeMine",
+	"authorUrl": "https://github.com/MeMineoff",
+	"isDesktopOnly": false
+}
